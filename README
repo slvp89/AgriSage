@@ -1,0 +1,22 @@
+# 🌾 AgriSage — Intelligent Crop and Fertilizer Recommendation System
+
+A machine learning project that recommends a suitable **crop** and **fertilizer plan**
+based on soil and climate inputs — Nitrogen (N), Phosphorus (P), Potassium (K),
+pH, temperature, humidity, and rainfall.
+
+## 🚧 Status
+In progress — Phase 1 (project setup + dataset) coming soon.
+
+## 🎯 Planned Features
+- **Random Forest** classifier for crop recommendation
+- **Isolation Forest** for flagging unusual soil readings
+- **SHAP** explanations so users can see *why* a crop was recommended
+- **Streamlit** dashboard for interactive input
+
+## 🛠️ Planned Tech Stack
+Python, Pandas, NumPy, Scikit-learn, SHAP, Streamlit
+
+## 👤 Author
+**Sanjay Devaraj Hegde**
+- GitHub: [@slvp89](https://github.com/slvp89)
+- LinkedIn: [sanjay-hegde](https://linkedin.com/in/sanjay-hegde-702128354)
